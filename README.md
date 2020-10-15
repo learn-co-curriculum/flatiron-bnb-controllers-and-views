@@ -1,4 +1,4 @@
-# Flatiron-BnB: Controllers and Views
+# Bonus Lab: Flatiron-BnB Controllers and Views
 
 Now that we have our model associations and methods, it's time to make this application run in the browser!  We've built out our fat models, and it's time to build our skinny controllers and minimially logic-ful views.  And what good will controllers be without routes and views?  Well, no good at all!  So we will build those too.  This lab comes with the solution for the previous bnb-methods lab, so you can dive right in.
 
